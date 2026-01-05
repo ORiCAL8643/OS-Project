@@ -73,8 +73,9 @@ Flask เป็น Micro Web Framework สำหรับภาษา Python ท
 2. **Preprocessing** -> แปลงเป็น HSV -> สร้าง Mask สีผิว
 3. **Processing** -> หา Contours -> สร้าง Convex Hull -> นับจำนวนนิ้ว
 4. **Logic Check**
-    * ชู 1 นิ้ว (1.5 วิ) -> Toggle ไฟห้องนอน
-    * ชู 2 นิ้ว (1.5 วิ) -> Toggle ล็อกประตู
+    * ชู 1 นิ้ว (1.5 วิ) -> Toggle ไฟ LED
+    * ชู 2 นิ้ว (1.5 วิ) -> Toggle Servo
+    * ชู 4 นิ้ว (1.5 วิ) -> Toggle All
     * แบมือ 5 นิ้ว (1.5 วิ) -> Reset All
 5. **Output** -> ส่งเสียง Buzzer -> อัปเดตหน้าเว็บ
 
