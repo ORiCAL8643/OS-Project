@@ -88,7 +88,7 @@ Flask เป็น Micro Web Framework สำหรับภาษา Python ท
 
 * **การทดหน้าเว็บไซต์การสั่งการ**
   * เมื่อชูระบบจะทำการประมวลผลว่าต้องทำคำสั่งอะไร
-  * ![(https://drive.google.com/file/d/1_-dJNyhjAJ7EfxQTiYEE0KId28l0498T/view?usp=drive_link)]
+  * ![(https://drive.google.com/file/d/1M6pNodoMIV2sa8UglOx4kSm1Q24Qx8NG/view?usp=drive_link)]
 
 * **การทดสอบการทำงานหลังประมวลผล**
   * เมื่อประมวลผลเสร็จจะทำงานตามคำสั่งที่ได้ทำการตั้งไว้
